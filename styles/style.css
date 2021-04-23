@@ -1,0 +1,1090 @@
+
+
+h2.title {
+    text-align: center;
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+h2.title26 {
+    text-align: center;
+    font-size: 26px;
+    line-height: 32px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+h3.subtitle {
+    color: #f8485e;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+p.comment {
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: normal;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    color: #999;
+}
+
+h2.klesh {
+    font-size: 22px;
+    line-height: 32px;
+    padding-left: 88px;
+    background: url(../svg/tick.svg) no-repeat;
+    font-weight: bold;
+    min-height: 64px;
+    margin-bottom: 16px;
+}
+
+.header h2 span {
+    font-weight: bold;
+    color: #f87c56;
+    font-size: 40px;
+}
+
+.ringArrowDown:hover {
+    opacity: 1 !important;
+}
+
+.ringArrowDown {
+    margin-top: 50px;
+    color: #fff;
+    opacity: 0.5 !important;
+}
+
+.ringArrowDown span {
+    padding-top: 5px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    background: url("../svg/arrow_down_white.svg") no-repeat center 8px;
+
+}
+
+
+.inline23 {
+    clear: both;
+    clear: both;
+}
+
+
+.inline23 div input {
+    width: 100%;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+.inline23 div p {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.inline23 > div {
+    display: inline-block;
+    display: -moz-inline-stack;
+    vertical-align: top;
+    font-size: 16px;
+    float: left
+}
+
+.inline2 > div {
+    display: inline-block;
+    display: -moz-inline-stack;
+    vertical-align: top;
+    font-size: 16px;
+    width: 49.1%;
+    margin-bottom: 40px;
+}
+
+.inline2 > div:nth-child(2n) > div {
+    float: right;
+}
+.inline2 > div > div {
+    width: 86%;
+}
+.inline2 > div > div > p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.inline2 h3 {
+    font-weight: bold;
+    line-height: 120%;
+    font-size: 36px;
+}
+
+.inline2 h3 span {
+    font-size: 36px;
+    color: #f8485e;
+}
+
+.inline3 > div > div {
+    display: table-cell;
+    display: -moz-inline-stack;
+    vertical-align: middle;
+    font-size: 16px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.statistic h2 {
+    font-family: "Manrope";
+    color: #f8485e;
+    font-weight: normal;
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+.statistic h2 span {
+    font-weight: normal;
+    font-size: 60px;
+}
+
+.statistic p {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    line-height: 150%;
+}
+
+.brokenHearth {
+    background: url("../svg/heart_broken.svg") no-repeat left bottom;
+    min-height: 470px;
+}
+
+.iconHolder {
+    height: 420px;
+    vertical-align: bottom;
+}
+.iconHolder span{
+    width:100%;
+    height:250px;
+    display: table;
+}
+.factor_1 span { background: url("../svg/howto_1.svg") no-repeat center center; }
+.factor_2 span { background: url("../svg/howto_2.svg") no-repeat center center; }
+.factor_3 span { background: url("../svg/howto_3.svg") no-repeat center center; }
+.factor_4 span { background: url("../svg/howto_4.svg") no-repeat center center; }
+.factor_5 span { background: url("../svg/howto_5.svg") no-repeat center center; }
+.factor_6 span { background: url("../svg/howto_6.svg") no-repeat center center; }
+
+a.blueLink {
+    color: #00a9e0;
+    text-decoration: none;
+}
+a.blueLink:hover {
+    text-decoration: underline;
+}
+
+.table-row > div {
+    font-size: 16px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.table-row .th {
+    font-weight: bold;
+    vertical-align: bottom;
+}
+.table-row .td1 { width:15%; color: #00a9e0; font-weight: normal !important; }
+.table-row .td2 { width:57% }
+.table-row .td3 { width:160px !important; color: #d16de3; text-align: center}
+.table-row .td4 { width:15%; color: #f87c56; text-align: center }
+.table-row div.td5 { width:15%; color: #f8485e; text-align: center }
+.table-row > div:nth-child(2n) {background-color: #fafafa}
+
+.td1 span,
+.td2 span,
+.td3 span,
+.td4 span,
+.td5 span {
+    content: ' ';
+}
+
+.analiz1 > div > div {
+    padding: 8px
+}
+div.analiz1  div  {
+    height: 48px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.analiz2 {
+    width: 100%;
+}
+.analiz2 > div > div {
+    padding: 8px
+}
+div.analiz2  div  {
+    height: 64px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.checkit {
+    width: 32px;
+    height: 32px;
+    display: -webkit-inline-box;
+}
+.td3 .checkit, .ch1 {background: url("../svg/check_purple.svg") no-repeat center center;}
+.td4 .checkit, .ch2 {background: url("../svg/check_orange.svg") no-repeat center center;}
+.td5 .checkit, .ch3 {background: url("../svg/check_red.svg") no-repeat center center;}
+
+
+.basket > div > a {
+    text-decoration: none;
+    transition: 300ms;
+}
+.basket > div.order-widget > a:hover, .basket > div.order-widget > a.hilight {
+    text-decoration: none !important;
+    text-shadow: 0 0 4px #000, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff, 0 0 20px #fff
+    , 0 0 50px #fff, 0 0 60px #fff;
+}
+
+.clearfix:before,
+.clearfix:after{content:" ";display:table;}
+.clearfix:after{clear:both;}
+.clearfix{*zoom:1;}
+
+
+.fixedHeader {
+    position: fixed;
+    top:-100px;
+    height: 72px;
+    background: #fff;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.4);
+    width: 100%;
+    z-index: 9999;
+    transition: 500ms;
+    line-height: 72px;
+}
+
+.fixedHeader a {
+    color: #000;
+}
+
+.basketCount {
+    color: white;
+    font: 400 16px/16px Manrope;
+    margin-top: -30px;
+    margin-left: 14px;
+    background-color: red;
+    border-radius: 20px;
+    width: 17px;
+    height: 17px;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+}
+
+.landBasketImg {
+    display: initial;
+}
+.landBasketImgFixed {
+    display: none;
+}
+
+.fixedHeader .landBasketImgFixed {
+    display: initial;
+}
+.fixedHeader .landBasketImg {
+    display: none;
+}
+.fixedHeader .basketCount {
+    color: #aaa;
+}
+
+.test2form {
+    background: #f2f6fe url("../svg/score_bg.svg") no-repeat right;
+    min-height: 690px;
+    width: 100%;
+}
+
+.form_radio {
+    margin-bottom: 10px;
+}
+.form_radio input[type=radio] {
+    display: none;
+}
+.form_radio label {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    padding-left: 30px;
+    margin-right: 0;
+    line-height: 20px;
+    user-select: none;
+}
+.form_radio label:before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+    background: url("../img/check1.png") 0 0 no-repeat;
+}
+
+.form_radio input[type=radio]:checked + label:before {
+    background: url("../img/check2.png") 0 0 no-repeat;
+}
+.form_radio label:hover:before {
+    filter: brightness(120%);
+}
+.form_radio input[type=radio]:disabled + label:before {
+    filter: grayscale(100%);
+}
+
+.test2result {
+    float: right;
+    text-align: center;
+    margin-right: 80px;
+    width: 40%;
+    background: #fff;
+    padding: 120px 40px;
+    min-height: 600px;
+}
+.test2result p {
+    margin: 40px;
+    font-size: 18px;
+}
+.test2result .t2result {
+    font-size: 60px;
+    font-weight: bold;
+}
+.test2result .res1 { color: #7bc64a; }
+.test2result .res2 { color: #dac303; }
+.test2result .res3 { color: #ef1821; }
+.test2result .res4 { color: #9c0810; }
+
+
+.prc5 {
+    width: 5%;
+}
+
+.tab64 {
+    width: 64%;
+    float: right !important;
+}
+
+.width15 {
+    width: 15%;
+}
+.wide33 {
+    width: 33.33%;
+}
+
+.wide66 {
+    width: 66.66%;
+}
+
+.width75 {
+    width: 75%;
+}
+
+.resTest1 {
+    display: table-cell !important;
+    width: 175px;
+    height: 175px;
+    border: 2px solid #f8485e;
+    border-radius: 90px;
+    font-weight: bold;
+    font-size: 60px;
+    color: #f8485e;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 175px;
+    margin-top: 25px
+}
+
+.t1res1 {
+    border: 2px solid #d16de3;
+    color: #d16de3;
+}
+.t1res2 {
+    border: 2px solid #f87c56;
+    color: #f87c56;
+}
+
+.test1value {
+    font-size: 60px;
+}
+
+.no-mobile {
+    display: initial;
+}
+.only-mobile {
+    display: none !important;
+}
+
+.t2leftSide {
+    width: 50%;
+    float: left;
+}
+
+.t2w70 {
+    width: 70%;
+}
+
+.t2w30 {
+    width: 30%;
+}
+
+.chisel-front, .chisel-front div {
+    font-size: 1.54vw !important;
+}
+
+
+#zashita li {
+    background: url("../svg/check_red.svg") no-repeat 10px 5px;
+    padding-left: 40px;
+}
+
+
+
+
+
+#kleshi-app {
+    border: 4px solid #eee;
+    min-height: 380px;
+    background: url("../svg/myth_bg.svg") no-repeat;
+    background-position: 110% 50%;
+}
+#kleshi-app .content {
+    margin: 50px 88px ;
+}
+#kleshi-app .content p.part {
+    font-size: 16px;
+    line-height: 24px;
+    color: #777;
+}
+#kleshi-app .content p.vorpos {
+    width: 50%;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top:16px;
+}
+#kleshi-app .content p.vybor {
+    width: 440px;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top:44px;
+}
+#kleshi-app .content p.otvet {
+    width: 440px;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top:44px;
+}
+
+.fastButton {
+    border: #000 1px solid;
+    border-radius: 24px;
+    height: 48px;
+    line-height: 48px;
+    width: 200px;
+    text-align: center;
+    float: left;
+    cursor: pointer;
+    transition: 200ms;
+}
+.blueButton {
+    color: #00a9e0;
+    border: #00a9e0 1px solid;
+}
+.blueButton:hover {
+    background-color: #18bbf0;
+    color: #fff;
+}
+
+.redButton {
+    color: #f8485e;
+    border: #f8485e 1px solid;
+}
+.redButton:hover {
+    background-color: #f8485e;
+    color: #fff;
+}
+#kleshi-app .btn2 {
+    margin-left: 40px;
+}
+#kleshi-app .comment {
+    width: 480px;
+}
+
+#kleshi-app .nextTest {
+    margin-top:16px;
+    width: 480px;
+    color: #18bbf0;
+    cursor: pointer;
+}
+
+.kak_zashitit_img {
+    width: 75%;
+    float: right;
+    border-radius: 0 0 0 50px;
+}
+
+.menu__item:not(:last-child){
+    margin-right: 33px;
+}
+
+.menu__item{
+    font-size: 14px;
+}
+
+.header__contact{
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    margin-right: 62px;
+}
+
+.header__menu{
+    margin-right: auto;
+}
+
+.btn-position-header{
+    position: relative;
+}
+
+.cart-number{
+    min-width: 20px;
+    max-height: 20px;
+    background-color: #f8485e;
+    border-radius: 100%;
+    position: absolute;
+
+    font-size: 11px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    z-index: 6;
+    right: -8px;
+    top: 1px;
+    display: none;
+}
+
+.cart-btn{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background: url('../img/ico_cart_blue_15137.png') 50% no-repeat;
+    background-size: 24px;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    border-radius: 0px;
+}
+
+.vaccination-position{
+    display: flex;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+}
+
+.vaccination-list{
+    list-style: decimal;
+    padding-left: 29px;
+    margin-bottom: 110px;
+}
+
+.vaccination-btn-description{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 35px;
+    width: 505px;
+}
+
+.vaccination-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0 0 0 64px;
+}
+
+.img-position{
+    width: 528px;
+    height: 408px;
+    margin-bottom: 46px;
+}
+
+#vaccination{
+    padding-bottom: 95px;
+}
+
+.vaccination-text-position{
+    width: 525px;
+    margin-right: auto;
+}
+
+.vaccination-text{
+    margin-bottom: 20px;
+}
+
+.vaccination-list-item:not(:last-child){
+    margin-bottom: 20px;
+}
+
+.text-decoration{
+    font-weight: 700;
+}
+
+.vaccination-btn{
+    width: 344px;
+    height: 48px;
+    background-color: #00a9e0;
+    border-radius: 40px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #fff;
+    transition:  background-color .3 ease-in-out;
+}
+
+.fixedHeader a:hover{
+    color: #f8485e;;
+}
+
+.mobile{
+    display: none;
+}
+
+.vaccination-btn:hover {
+    background-color: #18bbf0 !important;
+    color: #ffffff !important;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 1279px) {
+    .wide-only {
+        display:none;
+    }
+    .statistic p {
+        font-size: 16px;
+    }
+    .prc5 {
+        width: 2%;
+    }
+
+    .cart-number{
+        top: 0px;
+    }
+    .table-row .td1 { font-size: 14px }
+    .table-row .td2 { font-size: 14px }
+
+    .inline23 > div > h3 {
+        display: contents;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .inline23 > div br {
+        display: none;
+    }
+    .tab64 {
+        width:80%;
+        margin-right: 10%;
+    }
+    
+    .header3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .test2result {
+        margin-right: 60px;
+    }
+    .test2result p {
+        margin: 40px 0px;
+        font-size: 17px;
+    }
+    .inline3a > div > div {
+        width: 50%;
+    }
+
+    .country{
+        margin-right: auto;
+    }
+
+    .header__menu{
+        display: none;
+    }
+
+    .vaccination-text-position {
+        width: 450px;
+        margin-right: auto;
+    }
+
+    .vaccination-img-position{
+        width: 450px;
+    }
+
+    .vaccination-btn-description{
+        width: 445px;
+    }
+
+    .vaccination-list {
+        margin-bottom: 63px;
+    }
+
+    .img-position {
+        width: 450px;
+        height: 350px;
+        margin-bottom: 105px;
+    }
+
+    .vaccination-img{
+        border-radius: 0 0 0 40px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cart-btn{
+        top: 0px;
+    }
+
+    .vaccination-text-position {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .vaccination-position{
+        flex-direction: column-reverse;
+    }
+
+    .img-position {
+        width: 100%;
+        max-width: 528px;
+        height: auto;
+        margin-bottom: 105px;
+        margin: 0 auto;
+    }
+
+    .vaccination-img-position {
+        width: 100%;
+        margin-bottom: 37px;
+    }
+
+    .vaccination-text-position{
+        margin-bottom: 46px;
+    }
+
+    .vaccination-btn-description {
+        width: 100%;
+        text-align: left;
+        margin: 0 auto;
+        margin-bottom: 27px;
+    }
+
+    .mobile{
+        display: block;
+    }
+
+    .vaccination-text-position .vaccination-btn-description, .vaccination-text-position .vaccination-btn,.vaccination-img-position .vaccination-btn-description, .vaccination-img-position .vaccination-btn{
+        display: none;
+    }
+
+    .vaccination-list {
+        margin-bottom: 0px;
+    }
+
+    .vaccination-btn:not(:last-child){
+        margin-bottom: 43px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .inline3 > div > div {
+        width: 50%;
+    }
+
+    .cart-btn{
+        top: 0;
+    }
+
+    .header__top img {
+        width: initial;
+    }
+    #basket-place-landing {
+
+        position: absolute;
+        top: 15px;
+        right: 0px;
+    }
+
+    .inline3 > div > div {
+        width: 100%;
+        clear: both;
+    }
+    .statistic > h2 {
+        margin: 0 0 20px;
+        font-size: 54px;
+        line-height: 56px;
+    }
+    .statistic p {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+
+    .brokenHearth {
+        min-height: initial;
+        margin-bottom: 60px;
+    }
+    .inline2 > div {
+        width: 100% !important;
+        background-image: none;
+        margin-bottom: 40px;
+    }
+    .uk-margin-medium-bottom\@s {
+        margin-bottom: 0px !important;
+    }
+
+    .inline2 > .inline3 {
+        width: 100%;
+        height: 200px;
+        overflow: scroll;
+    }
+
+
+    /* хром, сафари */
+    .inline3::-webkit-scrollbar { width: 0; }
+
+    /* ie 10+ */
+    .inline3 { -ms-overflow-style: none; }
+
+    /* фф (свойство больше не работает, других способов тоже нет)*/
+    .inline3 { overflow: -moz-scrollbars-none; }
+
+    .subtitle {
+        text-align: center;
+    }
+
+    br {
+        display: none;
+    }
+    .wide33 {
+        width: 100%;
+    }
+
+    .wide66 {
+        width: 100%;
+    }
+
+    .width75 {
+        width: 100%;
+    }
+
+    #test1result1 {
+        margin-top: 0px !important;
+        margin-bottom: 16px !important;
+    }
+
+    .mobile-centered {
+        text-align: center;
+    }
+
+    .resTest1 {
+        left: 50%;
+        position: absolute;
+        margin-left: -87px;
+    }
+    .resTest1:after {
+        content: " ";
+        clear: both;
+    }
+    .mobile-otstup200{
+        margin-top: 200px !important;
+    }
+    .width15 {
+        width: 100%;
+    }
+    .no-mobile {
+        display: none !important;
+    }
+    .only-mobile {
+        display: initial !important;
+    }
+
+    .uk-margin-medium-bottom {
+        margin-bottom: 20px !important;
+    }
+
+    .t2leftSide {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .t2w70, .t2w30 {
+        width: 100%;
+    }
+    .t2w70 p {
+        padding: 20px 0 !important;
+    }
+
+    .test2form {
+        background-image: none;
+        min-height: 1100px;
+    }
+    .test2result {
+        clear: both;
+        margin-top: 48px;
+        margin-right: initial;
+        width: 100%;
+        float: initial;
+    }
+
+    .t2leftSide > .inline23 {
+        padding-left: 40px !important;
+    }
+
+
+    .headerText {
+        display: none;
+    }
+    .header__bottom h1 {
+        text-align: center;
+    }
+    .header__bottom h1 span {
+        display: block;
+    }
+
+    h2.title {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    p.comment {
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    .inline2 > div > div {
+        width: 100%;
+    }
+    h2.klesh {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    h3.subtitle {
+        text-align: left !important;
+    }
+    .header__bottom h1 {
+        margin-bottom: 40px;
+        font: 700 34px/40px Manrope;
+    }
+    .header__contact {
+        display: none;
+    }
+    .kak_zashitit_img {
+        width: 100%;
+    }
+
+    .iconHolder {
+        height: initial;
+        margin-bottom:40px;
+    }
+    .prevention {
+        padding: 0;
+    }
+
+
+    #kleshi-app {
+        border: 4px solid #eee;
+        min-height: 380px;
+        background: url("../svg/myth_bg.svg") no-repeat;
+        background-position: center 380px;
+        padding-bottom: 70%;
+        background-size: 150%;
+    }
+    #kleshi-app .content {
+        margin: 10px ;
+    }
+    #kleshi-app .btn2 {
+        margin-top: 10px;
+        margin-left: auto;
+    }
+    .fastButton {
+        width: 90%;
+        margin: auto auto;
+        float: initial;
+    }
+
+
+    #kleshi-app .content p.vorpos {
+        width: 100%;
+        font-size: 20px;
+        line-height: 28px;
+        margin-top:16px;
+    }
+    #kleshi-app .content p.vybor {
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        margin-top:20px;
+    }
+    #kleshi-app .content p.otvet {
+        width: 440px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-top:44px;
+    }
+
+    #kleshi-app .comment {
+        width: 100%;
+    }
+
+
+    .country{
+        display: none;
+    }
+
+    .header__contact{
+        display: block;
+    }
+
+    .vaccination-btn{
+        width: 256px;
+        height: 40px;
+        border-radius: 20px;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        margin: 0 auto;
+    }
+
+    .mobile{
+        text-align: center;
+    }
+
+    .vaccination-img{
+        border-radius: 0 0 0 32px;
+    }
+
+    .header__top{
+        margin-bottom: -6px;
+    }
+
+    .header__bottom {
+        padding: 0 0 98%;
+    }
+
+}
+
